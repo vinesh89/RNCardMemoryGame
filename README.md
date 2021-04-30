@@ -9,7 +9,9 @@ Users need to match the pair of Cards with same number with the least step count
 * Responsive layout design using Styled-Components and Flexbox
 * Generate a given pairs of random numbers between 1-100
 * Game logic to match the concecutively selected pairs of numbers
-* Animation to show the card flip 
+* Animation to show the card flip
+* Alert user with the number of steps taken to finish the game
+* Option to restart the game  
 * Implementation on both Android and iOS platforms
 
 ## Installation
